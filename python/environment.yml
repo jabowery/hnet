@@ -1,0 +1,12 @@
+name: hnet
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - pip
+  - ipython
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - pandas
